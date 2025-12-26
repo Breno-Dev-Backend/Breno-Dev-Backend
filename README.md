@@ -1,7 +1,4 @@
-Este é o momento de pivotar drasticamente. O seu README atual comunica "Analista de Dados/BI", o que é o oposto do que um Tech Lead do Sicoob ou de uma Big Tech busca para uma vaga de Backend Software Engineer. Se você mantiver o perfil atual, será ignorado para vagas de engenharia.
-
-Abaixo, a reestruturação cirúrgica focada em Engenharia de Software, Performance e Sistemas Distribuídos.
-## 🏗️ Olá, meu nome é Breno! 👋
+## Olá, meu nome é Breno! 👋
 
 Backend Software Engineer | Java & Go Specialist | Distributed Systems Construindo sistemas de alta disponibilidade e performance
 🎯 Sobre Mim

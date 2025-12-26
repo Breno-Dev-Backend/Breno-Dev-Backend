@@ -1,6 +1,7 @@
 ## Olá, meu nome é Breno! 👋
 
 Backend Software Engineer | Java & Go Specialist | Distributed Systems Construindo sistemas de alta disponibilidade e performance
+
 🎯 Sobre Mim
 
 Sou estudante de Ciência da Computação (3º Semestre) focado em Engenharia de Software Backend. Minha trajetória é direcionada à criação de arquiteturas resilientes, seguras e de alta performance, utilizando o ecossistema Java (JVM) e Golang.
